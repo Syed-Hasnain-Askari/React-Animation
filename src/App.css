@@ -30,3 +30,9 @@ html,body{
   position: absolute;
   bottom: -1%;
 }
+.palm {
+  background-image: url("./images/palm.png");
+  position: absolute;
+  top: 500px;
+  left: 600px;
+}
